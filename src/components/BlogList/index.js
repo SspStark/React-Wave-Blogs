@@ -35,6 +35,7 @@ class BlogList extends Component {
       <div className="blogs-list-container">
         {isLoading ? (
           <div data-testid="loader">
+              {/* loader type='Rings' */}
             <Loader type="TailSpin" color="#00bfff" height={50} width={50} />
           </div>
         ) : (
