@@ -1,4 +1,4 @@
-In this project, let's perform **Fetch and Routing** by applying the concepts we have learned till now.
+# [Wave Blogs](https://sspwaveblogs.ccbp.tech/)
 
 ### Refer to the image below:
 
